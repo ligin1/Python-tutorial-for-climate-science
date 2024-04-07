@@ -8,6 +8,6 @@ This tutorial includes codes to open a NetCDF file, compute and plot trends, det
 This tutorial includes codes to create interactive plots or animation.
 
 ### Data used:
-[SST data from the Hadley Center (HadISST)](https://www.metoffice.gov.uk/hadobs/hadisst/).
+[SST data from the NOAA (OISST)](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html).
 [Indian Meteorological Department daily gridded rainfall data.](https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html)
 [OISST data from NOAA.](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html)
